@@ -1,9 +1,15 @@
 Other resources
+
 https://github.com/leriomaggio/deep-learning-keras-tensorflow
+
 https://github.com/ageron/handson-ml
+
 https://github.com/ageron/handson-ml2
+
 https://github.com/jtoy/awesome-tensorflow
+
 https://github.com/fchollet/keras-resources
+
 
 <div>
     <h1 style="text-align: center;">Deep Learning with Keras and Tensorflow</h1>
